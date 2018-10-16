@@ -1,8 +1,8 @@
 # Assignment 3
 
-**Assignment and Code Blog Entry due at 11:59pm on Monday 10/29/2018**
+**Assignment and Code Blog Entry due at 11:59pm on Monday 11/5/2018**
 
-**Demo due by 11:59pm on Monday 11/12/2018**
+**Demo due by 11:59pm on Monday 11/19/2018**
 
 The goal of this assignment is to start using JavaScript on the client-side to add interactions to a web page, including reacting to user-generated events and manipulating the DOM.  We will build off of our work from Assignment 2.
 
